@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "130081337952",
+    "firebase_url": "https://shopecom-79db7-default-rtdb.firebaseio.com",
+    "project_id": "shopecom-79db7",
+    "storage_bucket": "shopecom-79db7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130081337952:android:40518327459e5302b3c905",
+        "android_client_info": {
+          "package_name": "com.example.shopui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA65bLsVV8F_UCkDZYc3GBjm0hXIJ_kHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

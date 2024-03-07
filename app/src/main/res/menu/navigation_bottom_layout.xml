@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/explorer"
+        android:icon="@drawable/btn_1"
+        android:title="Explorer">
+    </item>
+
+    <item
+        android:id="@+id/wishlist"
+        android:icon="@drawable/btn_2"
+        android:title="Wishlist">
+    </item>
+
+    <item
+        android:id="@+id/placeholder"
+        android:title="">
+    </item>
+
+
+
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/btn_3"
+        android:title="Cart">
+    </item>
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/btn_4"
+        android:title="Cart">
+    </item>
+</menu>
