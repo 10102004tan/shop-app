@@ -3,31 +3,28 @@
     <item
         android:id="@+id/explorer"
         android:icon="@drawable/btn_1"
-        android:title="Explorer">
+        android:title=""
+        >
     </item>
 
     <item
         android:id="@+id/wishlist"
         android:icon="@drawable/btn_2"
-        android:title="Wishlist">
+        android:title=""
+       >
     </item>
-
-    <item
-        android:id="@+id/placeholder"
-        android:title="">
-    </item>
-
-
 
     <item
         android:id="@+id/cart"
         android:icon="@drawable/btn_3"
-        android:title="Cart">
+        android:title=""
+        >
     </item>
 
     <item
         android:id="@+id/profile"
         android:icon="@drawable/btn_4"
-        android:title="Cart">
+        android:title=""
+        >
     </item>
 </menu>
